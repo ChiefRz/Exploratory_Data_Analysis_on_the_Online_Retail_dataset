@@ -69,5 +69,5 @@ This project follows a structured data analysis framework:
     ```
 3.  Open the notebook:
     ```bash
-    jupyter notebook "Online Retail EDA.ipynb"
+    jupyter notebook "Exploratory_Data_Analysis_on_the_Online_Retail_dataset.ipynb"
     ```
