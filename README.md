@@ -58,7 +58,7 @@ This project follows a structured data analysis framework:
 * **Saudi Arabia** and **Bahrain** recorded the lowest transaction volumes.
 * *Action:* Evaluate logistics costs for the Middle East region. If operational costs outweigh the thin margins, consider focusing resources on European markets instead.
 
-## 💻 How to Run This Project
+## How to Run This Project
 1.  Clone this repository:
     ```bash
     git clone [https://github.com/ChiefRz/Exploratory_Data_Analysis_on_the_Online_Retail_dataset.git](https://github.com/ChiefRz/Exploratory_Data_Analysis_on_the_Online_Retail_dataset.git)
